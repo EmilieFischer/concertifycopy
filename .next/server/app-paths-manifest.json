@@ -1,0 +1,13 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/favourites/page": "app/favourites/page.js",
+  "/concerts/page": "app/concerts/page.js",
+  "/profile/[id]/page": "app/profile/[id]/page.js",
+  "/concerts/[id]/page": "app/concerts/[id]/page.js",
+  "/api/data/venueData/route": "app/api/data/venueData/route.js",
+  "/api/data/concertData/route": "app/api/data/concertData/route.js",
+  "/api/data/genreData/route": "app/api/data/genreData/route.js",
+  "/api/users/login/route": "app/api/users/login/route.js",
+  "/api/users/cookieUser/route": "app/api/users/cookieUser/route.js"
+}
